@@ -1,0 +1,17 @@
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\CompressPdf.exe
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\ghsot.exe
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\gsdll32.dll
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\CompressPdf.deps.json
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\CompressPdf.runtimeconfig.json
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\CompressPdf.runtimeconfig.dev.json
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\CompressPdf.dll
+D:\My Projects\CompressPdf\bin\Debug\netcoreapp3.1\CompressPdf.pdb
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.Form1.resources
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.csproj.GenerateResource.cache
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.AssemblyInfoInputs.cache
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.AssemblyInfo.cs
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.csproj.CoreCompileInputs.cache
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.dll
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.pdb
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.genruntimeconfig.cache
+D:\My Projects\CompressPdf\obj\Debug\netcoreapp3.1\CompressPdf.csprojAssemblyReference.cache
